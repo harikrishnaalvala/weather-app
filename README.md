@@ -18,7 +18,7 @@ A simple and clean web-based Weather App that lets users search for the current 
 - CSS3
 - JavaScript
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 weather-app/
 │
@@ -27,7 +27,6 @@ weather-app/
 │   ├── styles.css         # CSS styling
 │   └── script.js          # JavaScript functionality
 └── README.md              # Project documentation
-
 
 
 ## 🔌 How to Use
