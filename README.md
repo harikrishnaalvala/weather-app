@@ -1,44 +1,41 @@
-🌦️ Weather App
-A simple web-based weather application that fetches and displays current weather information and forecast based on user-inputted city names.
+# 🌦️ Weather App
 
-📁 Project Structure
-bash
-Copy
-Edit
+A simple and clean web-based Weather App that lets users search for the current weather in any city using real-time data from a weather API.
+
+## 🔧 Features
+
+- Search for current weather in any city
+- Displays:
+  - City name
+  - Current time and weather description
+  - Humidity and wind speed
+  - Weather icon and temperature
+- Clean and responsive UI
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📁 Project Structure
+
 weather-app/
 │
-├── index.html             # Main HTML file
+├── index.html # Main HTML file
 ├── assets/
-│   ├── styles.css         # Styles for the app
-│   └── script.js          # Main JavaScript logic
-└── README.md              # Project overview and instructions
-⚙️ Features
-Search weather by city name
+│ ├── styles.css # Custom styles
+│ └── script.js # JavaScript logic
 
-Displays:
 
-City name
+## 🔌 How to Use
 
-Current time and description
+1. Clone this repository:
 
-Temperature (in °F)
+   ```bash
+   git clone https://github.com/yourusername/weather-app.git
+   cd weather-app
+   
+2. Open index.html in your browser.
 
-Humidity
-
-Wind speed
-
-Weather icon
-
-Forecast section (ready for expansion)
-
-🚀 Getting Started
-1. Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/weather-app.git
-cd weather-app
-2. Open in browser
-Simply open index.html in your preferred web browser.
-
-No build tools or servers required — it's a fully static app!
+3. Type a city name in the input box and click Search to see the weather.
