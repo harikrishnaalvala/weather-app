@@ -22,10 +22,12 @@ A simple and clean web-based Weather App that lets users search for the current 
 
 weather-app/
 │
-├── index.html # Main HTML file
+├── index.html             # Main HTML page
 ├── assets/
-│ ├── styles.css # Custom styles
-│ └── script.js # JavaScript logic
+│   ├── styles.css         # CSS styling
+│   └── script.js          # JavaScript functionality
+└── README.md              # Project documentation
+
 
 
 ## 🔌 How to Use
